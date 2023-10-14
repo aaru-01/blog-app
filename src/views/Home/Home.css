@@ -1,0 +1,12 @@
+.home{
+    text-align: center;
+    background-color: rgb(223, 156, 156);
+    color: rgb(74, 35, 35);
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 20px;
+}
+.postlink{
+   margin-left: 570px;
+   text-decoration: none;
+}

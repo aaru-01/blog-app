@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "How to create first web page",
+        "description": "This is my first blog",
+        "blogContent": "I am going to create my first web page. We will use HTML, VS Code and Google Chrome for this purpose. I'm going to create my first web page. we will use use HTML, VS Code and Google Chrome for this purpose.I am going to create my first web page. We will use HTML, VS Code and Google Chrome for this purpose. I'm going to create my first web page. we will use use HTML, VS Code and Google Chrome for this purpose.",
+        "author": "Sai",
+        "publishedDate": "2017-12-12T00:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "title": "How to print Hello Worlds in JS",
+        "description": "This is my second blog",
+        "blogContent": "We will learn console.log and will use it for printing hello worlds",
+        "author": "XYZ",
+        "publishedDate": "2017-12-12T00:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "title": "How to setup routers in react?",
+        "description": "This is my third blog",
+        "blogContent": "We will learn how to setup routers in react",
+        "author": "ABC",
+        "publishedDate": "2017-12-12T00:00:00.000Z"
+    }
+]
