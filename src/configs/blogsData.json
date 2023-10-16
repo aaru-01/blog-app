@@ -1,26 +1,29 @@
 [
     {
         "id": 1,
-        "title": "How to create first web page",
-        "description": "This is my first blog",
-        "blogContent": "I am going to create my first web page. We will use HTML, VS Code and Google Chrome for this purpose. I'm going to create my first web page. we will use use HTML, VS Code and Google Chrome for this purpose.I am going to create my first web page. We will use HTML, VS Code and Google Chrome for this purpose. I'm going to create my first web page. we will use use HTML, VS Code and Google Chrome for this purpose.",
-        "author": "Sai",
+        "title": "Apple iPhone",
+        "description": "Network Service Provider: Unlocked for All Carriers. operating system used IOS Cellular Technology 5G",
+        "img": "https://m.media-amazon.com/images/I/71ZDY57yTQL._SX679_.jpg",
+        "blogContent": "About this item 16.95 cm (6.7-inch) Super Retina XDR display Advanced camera system for better photos in any light Cinematic mode now in 4K Dolby Vision up to 30 fps Action mode for smooth, steady, handheld videos Vital safety technology — Crash Detection calls for help when you can’t All-day battery life and up to 26 hours of video playback Industry-leading durability features with Ceramic Shield and water resistance",
+        "author": "ARUSH",
         "publishedDate": "2017-12-12T00:00:00.000Z"
     },
     {
         "id": 2,
-        "title": "How to print Hello Worlds in JS",
-        "description": "This is my second blog",
-        "blogContent": "We will learn console.log and will use it for printing hello worlds",
-        "author": "XYZ",
+        "title": "OnePlus Nord CE 3 Lite 5G",
+        "description":"processor make qualcomm snapdragon 695,RAM 8GB ,Internal storage 128GB,256GB",
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697017827/Croma%20Assets/Communication/Mobiles/Images/270657_0_ywfphh.png",
+        "blogContent":"The OnePlus Nord CE 3 Lite 5G is official in India. The new mainstream 5G smartphone is one of the company's most affordable Nord-branded phones, and it is the successor to the Nord CE 2 Lite 5G (Review). The Nord CE 3 Lite 5G gets notable upgrades in some areas while some aspects have stayed the same. Thankfully for consumers, the phone's launch price is the same as the outgoing model. The big question  is whether you should give the Nord CE 3 Lite 5G an affirmative nod, or look at other phones around this segment? Here is our review to help you decide.",
+        "author": "JAY",
         "publishedDate": "2017-12-12T00:00:00.000Z"
     },
     {
         "id": 3,
-        "title": "How to setup routers in react?",
-        "description": "This is my third blog",
-        "blogContent": "We will learn how to setup routers in react",
-        "author": "ABC",
+        "title": "Vivo V23 5G",
+        "img":"https://i.gadgets360cdn.com/products/large/vivo-v23-5g-651x800-1641366913.jpg",
+        "description": "Processor make mediaTek dimensity 920 RAM 8GB, 12GB Internal storage 128GB , 256GB",
+        "blogContent": "Vivo V23 5G mobile was launched on 5th January 2022. The phone comes with a 6.44-inch touchscreen display offering a resolution of 1080x2400 pixels. It comes with 8GB, 12GB of RAM. The Vivo V23 5G runs Android 12 and is powered by a 4200mAh non-removable battery. The Vivo V23 5G supports proprietary fast charging.",
+        "author": "SHREE",
         "publishedDate": "2017-12-12T00:00:00.000Z"
     }
 ]

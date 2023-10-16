@@ -6,7 +6,7 @@ function PreviewPostCard({ id, title, author, description, blogContent }) {
     return (
         <div className='preview-post-card'>
             <h2>{title}</h2>
-            <span>By {author}</span>
+            <span>{author}</span>
             <p>{description}</p>
             <p>{blogContent}</p>
             <Link to={`/posts/read/${id}`}>Read More</Link>
