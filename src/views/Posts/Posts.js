@@ -5,6 +5,7 @@ function Posts() {
   return (
     <div>
       <h1>Posts</h1>
+      <h2>Aarti</h2>
       {
         blogData.map((post, index)=>{
 return <PreviewPostCard key={index} id= {post.id} title={post.title} description={post.description} blogContent={post.blogContent}/>
